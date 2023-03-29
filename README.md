@@ -1,4 +1,4 @@
-# sorting-algorithms-comparison
+# sorting-algorithms-comparison [tr]
 Python programlama dili kullanılarak Bubble sort, Selection sort, Insertion sort, Quick sort sıralama algoritmalarının hızlarının karşılaştırılması. 
 
 Sıralama Algoritmalarının Karşılaştırılması
